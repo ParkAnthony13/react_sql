@@ -35,7 +35,10 @@ app.post('/api/insert', (req,res) => {
     })
 })
 
-
+// how to prevent sql injections
+// validations which help prevent sql injections
+// modularizing
+// using req.body
 
 
 
